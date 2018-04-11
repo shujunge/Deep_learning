@@ -22,8 +22,9 @@ omniglot 5way 1 shot:
 ```
 python omniglot/omniglot_train_one_shot.py -w 5 -s 1 -b 19 
 ```
-
+'''
 omniglot 5way 5 shot:
+'''
 
 ```
 python omniglot/omniglot_train_few_shot.py -w 5 -s 5 -b 15 
